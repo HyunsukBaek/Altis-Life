@@ -25,6 +25,7 @@ class Life_Client_Core
 		class initCiv {};
 		class initCop {};
 		class initMedic {};
+		class initZeus {};
 		class welcomeNotification {};
 		class survival {};
 	};
@@ -204,6 +205,7 @@ class Life_Client_Core
 		class nearATM {};
 		class playerSkins {};
 		class nearestObjects {};
+		class autoSetPolice {};
 	};
 
 	class Network

@@ -4,17 +4,18 @@
 	Description:
 	Called upon first spawn selection and welcomes our player.
 */
-format["Welcome %1, Please read the following as it is important!",profileName] hintC
+format["Welcome %1,!",profileName] hintC
 [
-	"Welcome to the server! A few things have changed with Altis Life RPG that you need to be aware of!",
-	"An interaction key has been introduced which replaces the large majority of scroll wheel actions, this was for performance issues. By default this key is [Left Windows], you can change this key by pressing ESC and going to Configure->Controls->Custom
-	and bind 'Use Action 10' to a single key like H. This key is used for the following actions",
-	"Picking up items and money.",
-	"Fishing and gathering",
-	"Interacting with players (as a cop)",
-	"Interacting with vehicles (repairing and cop actions)",
-	"",
-	"If you are having issues with interacting / picking up items just wait. A quick way to know when you can interact with that item if the server allows it is by pressing your tilde key (~) and using the circle to highlight the object, when it says for example 'Pile of Money' then
-	that means you can pick it up!."
+		"소울Life (altis life v4.4최신적용) 서버에 입장을 환영합니다",
+	"그동안 잦은 리붓과 백섭의 원인을 모두 개선하여 안정된 버전으로 정식서비스를 시작합니다",
+	
+	"네이버 카페 주소는 http://cafe.naver.com/alflrss 입니다",
+	"공지사항 및 규칙을 확인하시기 바랍니다. 그렇지 않은 경우 불이익을 당하실 수 있습니다.",
+	"본 서버는 애드온을 모두 해제하셔야만 입장가능합니다.",
+	"메딕은 당분간 아무나 이용하실 수 있습니다. ",
+	
+	"아프리카에서 방송도 합니다. afreeca.com/mixkorea 또는 아르마3 소울퍼커 검색",
+	"건의사항/복구요청은  카페를 이용하세요.",
+	"Free Life, Free sex, 소울퍼커 서버 어드민드림"
 ];
 	
